@@ -1,0 +1,37 @@
+{
+    "code": 200,
+    "recods": [
+        {
+            "id": 1,
+            "name": "HTML"
+        },
+        {
+            "id": 2,
+            "name": "CSS"
+        },
+        {
+            "id": 3,
+            "name": "JavaScript"
+        },
+        {
+            "id": 4,
+            "name": "Vuejs"
+        },
+        {
+            "id": 5,
+            "name": "Reactjs"
+        },
+        {
+            "id": 6,
+            "name": "Nuxjs"
+        },
+        {
+            "id": 7,
+            "name": "uni-app"
+        },
+        {
+            "id": 8,
+            "name": "node"
+        }
+    ]
+}
